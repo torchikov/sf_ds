@@ -20,8 +20,8 @@ Write the programm which guess the number for minimum attempts
 
 **Competion conditions:**
 
- - A computer think of a number from 1 to 100 and we need to guess it. Guess means write a programm which guess the number.
-- Algorithm takes into aacount if a rundom number greater than or less than the needed number
+- A computer think of a number from 1 to 100 and we need to guess it. Guess means write a programm which guess the number.
+- Algorithm takes into account if a rundom number greater than or less than the needed number
 
 **Quality metric:**
 
